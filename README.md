@@ -1,6 +1,6 @@
 ## Expertise
 
-**My security expertise is about the ability to dissect the design and implementation; the language and project type is secondary.**
+**I explore the design and implementation in-depth, then find bugs; the language and project type is secondary.**
 
 ➡️ I specialize in all **Solidity** smart contracts for **EVM** chains, as well as infrastructure projects and their components written in **Go** or **Rust**.
 
