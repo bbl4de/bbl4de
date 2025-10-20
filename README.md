@@ -22,8 +22,8 @@ Several audits of purpose-built L1s and components of L2s like Optimism and the 
 | mev-commit (invite-only) | Better/faster/safer MEV on Ethereum | Solidity | 6th |
 | [Beraborrow](https://audits.sherlock.xyz/contests/741/leaderboard) | Lending on Berachain | Solidity | 7th |
 | [Votre](https://cantina.xyz/competitions/050711ca-a6d1-4fdd-9f94-3816233c1bd5/leaderboard) | Lending but liquidation-free | Solidity | 7th |
+| [Story Network](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58/leaderboard) | L1 for intellectual property (IP) | Go, Solidity (CosmosSDK) | 11th; $27k win |
 | [Allora v0.8.0](https://audits.sherlock.xyz/contests/728/leaderboard) | L1 for prediction / information market | Go (CosmosSDK) | 11th |
-| [Story Network](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58/leaderboard) | L1 for intellectual property (IP) | Go, Solidity (CosmosSDK) | 14th; $27k win |
 | [mev-commit](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c/leaderboard) | Better/faster/safer MEV on Ethereum | Solidity | 21st |
 
 ## Judging
