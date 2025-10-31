@@ -1,7 +1,5 @@
 Ex-Astronomy student who fell in love with the Blockchain. Over 2 years of web3 security experience.
 
-Judge & Resident on Cantina.
-
 ## Expertise
 
 **Solidity** smart contracts for **EVM** chains:
@@ -39,5 +37,7 @@ https://cantina.xyz/u/bbl4de
 | [Gamma Strategies](https://cantina.xyz/competitions/aaf79192-6ea7-4b1e-aed7-3d23212dd0f1) | Uniswap V4 limit & scale orders | 
 | [Kuru](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview) | DEX on Monad (CLOB) | 
 
-## Socials
-**X**: [@bbl4de_xyz](https://x.com/bbl4de_xyz)
+## Contact 
+- **X**: [@bbl4de_xyz](https://x.com/bbl4de_xyz)
+- **TG**: https://t.me/bbl4de
+- **Email:** bbl4de.xyz@gmail.com
