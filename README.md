@@ -29,6 +29,8 @@ Several audits of purpose-built L1s and components of L2s like Optimism and the 
 ### Total earnings
 https://audits.sherlock.xyz/watson/bbl4de
 
+### Cantina profile
+https://cantina.xyz/u/bbl4de
 ## Judging
 | Project | Description | 
 |---|---|
