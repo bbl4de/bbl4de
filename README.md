@@ -1,5 +1,7 @@
 Ex-Astronomy student who fell in love with the Blockchain. Over 2 years of web3 security experience.
 
+Judge & Resident on Cantina.
+
 ## Expertise
 
 **Solidity** smart contracts for **EVM** chains:
