@@ -26,6 +26,9 @@ Several audits of purpose-built L1s and components of L2s like Optimism and the 
 | [Allora v0.8.0](https://audits.sherlock.xyz/contests/728/leaderboard) | L1 for prediction / information market | Go (CosmosSDK) | 11th |
 | [mev-commit](https://cantina.xyz/competitions/4ee8716d-3e0e-4f59-b90d-aa56bf3b484c/leaderboard) | Better/faster/safer MEV on Ethereum | Solidity | 21st |
 
+### Total earnings
+https://audits.sherlock.xyz/watson/bbl4de
+
 ## Judging
 | Project | Description | 
 |---|---|
