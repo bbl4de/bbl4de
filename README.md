@@ -37,7 +37,7 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 ## Judging
 | Project | Description | Submission # |
 |---|---|---|
-| [Gamma Strategies](https://cantina.xyz/competitions/aaf79192-6ea7-4b1e-aed7-3d23212dd0f1) | Uniswap V4 limit & scale orders | 350+ |
+| [Gamma Strategies](https://cantina.xyz/competitions/aaf79192-6ea7-4b1e-aed7-3d23212dd0f1) | Uniswap V4 limit & scale orders | 100+ |
 | [Kuru](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview) | DEX on Monad (CLOB) | 1100+ |
 
 ## Private 
