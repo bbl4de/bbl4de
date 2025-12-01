@@ -8,10 +8,9 @@ Ex-Astronomy student who fell in love with the Blockchain. Over 2 years of web3 
 
 ## Expertise
 
-**Solidity** smart contracts for **EVM** chains:
+Proficiency in auditing **Solidity** smart contracts for **EVM** chains:
 
-Significant **DeFi** experience - dozens of audits (lending, bridges, staking, DEXes, yield farming, etc.).
-
+Significant **DeFi** experience (lending, bridges, staking, DEXes, yield farming ) & in-depth understanding of many industry-standard protocols like Uniswap, Morpho, Aave, Pendle as well as common cross-chain integrations like CCTP, Wormhole or LayerZero ( either from auditing integrations or hunting for bugs in their code directly ). 
 
 
 **Rust** & **Go** infrastructure projects and their components - majority of 2025 spent here:
