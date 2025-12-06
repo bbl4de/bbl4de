@@ -48,10 +48,7 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 
 ## Misc
 
-Rareskills ZK bootcamp graduate. 
+### Rareskills ZK bootcamp graduate 
 
-### Total earnings
-https://audits.sherlock.xyz/watson/bbl4de
-
-### Cantina profile
+### Cantina profile:
 https://cantina.xyz/u/bbl4de
