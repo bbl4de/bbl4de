@@ -48,7 +48,6 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 
 ## Misc
 
-### Rareskills ZK bootcamp graduate 
+- Rareskills ZK bootcamp graduate 
 
-### Cantina profile:
-https://cantina.xyz/u/bbl4de
+- Cantina profile: https://cantina.xyz/u/bbl4de
