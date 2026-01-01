@@ -23,7 +23,7 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 | Project | Description | Language(s) | Placement | Findings |
 |---|---|---|---|---|
 | [Infinifi](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b/leaderboard) | Yield farming | Solidity | 3rd | 1H, 4M |
-| [Inverse Finance](https://audits.sherlock.xyz/contests/1202/leaderboard) | Lending + Stablecoin | 3rd | 1M |
+| [Inverse Finance](https://audits.sherlock.xyz/contests/1202/leaderboard) | Lending + Stablecoin | Solidity | 3rd | 1M |
 | [Debita Finance V3](https://audits.sherlock.xyz/contests/627/leaderboard) | Lending + NFT marketplace | Solidity | 6th | 2H, 7M |
 | mev-commit (invite-only) | Better/faster/safer MEV on Ethereum | Solidity | 6th | x |
 | [Beraborrow](https://audits.sherlock.xyz/contests/741/leaderboard) | Lending on Berachain | Solidity | 7th | 1M |
