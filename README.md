@@ -52,7 +52,7 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 ## Bug Bounty
 | Project | Language | Severity | 
 |---|---|---|
-| Private | Solidity | Low | 
+| Private | Solidity | [Low](https://cantina.xyz/u/bbl4de/public-reviews/bounties) | 
 | Big updates will show up here soon... | | |  
 ## Misc
 
