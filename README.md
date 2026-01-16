@@ -53,7 +53,7 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 | Project | Language | Severity | 
 |---|---|---|
 | Private | Solidity | Low | 
-| Big updates are comming here... | | |  
+| Big updates will show up here soon... | | |  
 ## Misc
 
 - Rareskills ZK bootcamp graduate 
