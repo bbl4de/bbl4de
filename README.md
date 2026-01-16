@@ -49,6 +49,11 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 |---|---|---|---|
 | Infinifi | Fix-review after public contest | Solidity | https://gist.github.com/bbl4de/494f4c8aa8bc6e2e378662d8da352ac5| 
 
+## Bug Bounty
+| Project | Language | Severity | 
+|---|---|---|
+| Private | Solidity | Low | 
+| Big updates are comming here... | | |  
 ## Misc
 
 - Rareskills ZK bootcamp graduate 
