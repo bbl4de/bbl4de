@@ -2,7 +2,7 @@ Ex-Astronomy student who fell in love with the Blockchain. Over 2 years of web3 
 
 Website: https://bbl4de.xyz
 
-## Let's talk 
+## Contact for private audits, PR reviews & AI findings triage.
 - **X**: [@bbl4de_xyz](https://x.com/bbl4de_xyz)
 - **TG**: https://t.me/bbl4de
 - **Email:** bbl4de.xyz@gmail.com
