@@ -47,6 +47,7 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 ## Private 
 | Project | Description | Language(s) | Report |
 |---|---|---|---|
+| YuzuUSD | Pashov Audit Group | Solidity | TBD | 
 | Infinifi | Fix-review after public contest | Solidity | https://gist.github.com/bbl4de/494f4c8aa8bc6e2e378662d8da352ac5| 
 
 ## Bug Bounty
