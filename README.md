@@ -55,7 +55,7 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 | Project | Language | Severity | 
 |---|---|---|
 | Private | Solidity | [Low](https://cantina.xyz/u/bbl4de/public-reviews/bounties) | 
-| Big updates will show up here soon... | | |  
+| Private | Rust | [High](https://x.com/bbl4de_xyz/status/2026905174371975628?s=20) |  
 ## Misc
 
 - Rareskills ZK bootcamp graduate 
