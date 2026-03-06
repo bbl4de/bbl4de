@@ -1,4 +1,4 @@
-Ex-Astronomy student who fell in love with the Blockchain. Over 2 years of web3 security experience.
+Ex-Astronomy student who fell in love with the Blockchain. Over 2 years of blockchain security research/engineering experience.
 
 Securing blockchains and smart contracts with [https://grego.ai/](https://grego.ai/#success-stories) ( March 2026 - now ).
 
