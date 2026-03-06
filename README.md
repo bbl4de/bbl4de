@@ -2,13 +2,12 @@ Ex-Astronomy student who fell in love with the Blockchain. Over 2 years of block
 
 Securing blockchains and smart contracts with [https://grego.ai/](https://grego.ai/#success-stories) ( March 2026 - now ).
 
-Website: https://bbl4de.xyz
-
 ## Contact for private audits and PR reviews
 - **X**: [@bbl4de_xyz](https://x.com/bbl4de_xyz)
 - **TG**: https://t.me/bbl4de
 - **Email:** bbl4de.xyz@gmail.com
 
+Website: https://bbl4de.xyz
 
 ## Expertise
 
