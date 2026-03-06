@@ -1,6 +1,6 @@
 Ex-Astronomy student who fell in love with the Blockchain. Over 2 years of web3 security experience.
 
-Working with [https://grego.ai/](https://grego.ai/#success-stories) as a Blockchain Security Researcher.
+Securing blockchains and smart contracts with [https://grego.ai/](https://grego.ai/#success-stories) ( March 2026 - now ).
 
 Website: https://bbl4de.xyz
 
