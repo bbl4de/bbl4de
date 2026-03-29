@@ -13,21 +13,21 @@ Website: https://bbl4de.xyz
 
 Proficiency in auditing **Solidity** smart contracts for **EVM** chains:
 
-Significant **DeFi** experience (lending, bridges, staking, DEXes, yield farming ) & in-depth understanding of many industry-standard protocols like `Uniswap`, `Morpho`, `Compound`, `Aave`, `Pendle` as well as common cross-chain integrations like `CCTP`, `Wormhole` or `LayerZero`.
+Significant **DeFi** experience (lending, bridges, staking, DEXes, yield farming ) & understanding of many industry-standard protocols like `Uniswap`, `Morpho`, `Compound`, `Aave`, `Pendle` as well as common cross-chain integrations like `CCTP`, `Wormhole` or `LayerZero`.
 
 
 **Rust** & **Go** infrastructure projects and their components - majority of 2025 spent here:
 
-Several audits of purpose-built L1s and components of L2s like Optimism. Although with no findings, I audited Pectra hardfork of Ethereum itself as a language learning experience + to deepen my understanding of the EVM and the consensus layer. 
+Several audits of purpose-built L1s and components of L2s like Optimism. Although with no findings, I audited Ethereum's Pectra hardfork to deepen my understanding of the EVM and the consensus layer. 
 
 ## Public contests 
 | Project | Description | Language(s) | Placement | Findings |
 |---|---|---|---|---|
-| [Rujira](https://code4rena.com/audits/2025-12-rujira) |CDP lending / money market on THORChain | Rust ( CosmWasm ) | 1st | 7H, 3M |
-| [Mach Finance](https://audits.sherlock.xyz/contests/727/leaderboard) | Lending on SONIC | Solidity | 1st | 1 M |
-| [Infinifi](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b/leaderboard) | Yield farming | Solidity | 3rd | 1H, 4M |
-| [Inverse Finance](https://audits.sherlock.xyz/contests/1202/leaderboard) | Lending + Stablecoin | Solidity | 3rd | 1M |
-| [SXT](https://cantina.xyz/code/3cc30b66-1cba-4044-968f-a0817cd7bf83/overview/leaderboard) | reth-based L1 - ZK proofs for SQL data | Rust, Solidity | 4th | 5M |
+| [Rujira](https://code4rena.com/audits/2025-12-rujira) |CDP lending / money market on THORChain | Rust ( CosmWasm ) | 🥇 1st | 7H, 3M |
+| [Mach Finance](https://audits.sherlock.xyz/contests/727/leaderboard) | Lending on SONIC | Solidity | 🥇 1st | 1 M |
+| [Infinifi](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b/leaderboard) | Yield farming | Solidity | 🥉 3rd | 1H, 4M |
+| [Inverse Finance](https://audits.sherlock.xyz/contests/1202/leaderboard) | Lending + Stablecoin | Solidity | 🥉 3rd | 1M |
+| [SXT](https://cantina.xyz/code/3cc30b66-1cba-4044-968f-a0817cd7bf83/overview/leaderboard) | reth-based L1 - ZK proofs for SQL data | Rust, Solidity |  4th | 5M |
 | [Votre](https://cantina.xyz/competitions/050711ca-a6d1-4fdd-9f94-3816233c1bd5/leaderboard) | Lending but liquidation-free | Solidity | 5th | 1M |
 | [Debita Finance V3](https://audits.sherlock.xyz/contests/627/leaderboard) | Lending + NFT marketplace | Solidity | 6th | 2H, 7M |
 | mev-commit (invite-only) | Better/faster/safer MEV on Ethereum | Solidity | 6th | x |
@@ -61,6 +61,8 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 |---|---|---|---|
 | Private | X | Solidity | [Low](https://cantina.xyz/u/bbl4de/public-reviews/bounties) | 
 | Private | DLT liveness affected | Rust | [High](https://x.com/bbl4de_xyz/status/2026905174371975628?s=20) |  
+| Private | DLT liveness affected/Crashing state transition | Rust | Medium x4 | 
+
 ## Misc
 
 - Rareskills ZK bootcamp graduate 
