@@ -42,7 +42,10 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 | [XRPL Lending](https://immunefi.com/audit-competition/xrpl-ripple-attackathon/leaderboard/) | XRP Ledger-native Lending Protocol | C | 30th | 1H |
 | [Privacy-cash](https://audits.sherlock.xyz/contests/1160) | Solana privacy pool ( Groth16 ) | Rust, Circom | 0 H/M contest | N/A |
 
-
+## Exaplanatory reports
+- [Centrifuge V3.1 Medium severity report](https://gist.github.com/bbl4de/0b84ed271f1c90d66c9f947022f38faa)
+- [Votre Medium severity report](https://gist.github.com/bbl4de/4372a62b6a95a99dc096abc7f9a934f2)
+  
 ## Judging
 | Project | Description | Submission # |
 |---|---|---|
