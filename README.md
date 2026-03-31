@@ -55,7 +55,7 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 ## Private 
 | Project | Description | Language(s) | Report |
 |---|---|---|---|
-| YuzuUSD | Pashov Audit Group | Solidity | TBD | 
+| YuzuUSD | Pashov Audit Group | Solidity | [Link](https://github.com/pashov/audits/blob/master/team/md/YuzuUSD-security-review_2026-01-14.md) | 
 | Subsquid | Pashov Audit Group | Solidity | TBD |
 | Infinifi | Fix-review after public contest | Solidity | https://gist.github.com/bbl4de/494f4c8aa8bc6e2e378662d8da352ac5| 
 
