@@ -42,10 +42,13 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 | [XRPL Lending](https://immunefi.com/audit-competition/xrpl-ripple-attackathon/leaderboard/) | XRP Ledger-native Lending Protocol | C | 30th | 1H |
 | [Privacy-cash](https://audits.sherlock.xyz/contests/1160) | Solana privacy pool ( Groth16 ) | Rust, Circom | 0 H/M contest | N/A |
 
-## Exaplanatory reports
-- [Centrifuge V3.1 Medium severity report](https://gist.github.com/bbl4de/0b84ed271f1c90d66c9f947022f38faa)
-- [Votre Medium severity report](https://gist.github.com/bbl4de/4372a62b6a95a99dc096abc7f9a934f2)
-  
+## Bug Bounty - $20,000 in rewards 
+| Project | Description | Language | Severity | 
+|---|---|---|---|
+| Private | X | Solidity | [Low](https://cantina.xyz/u/bbl4de/public-reviews/bounties) | 
+| Private | DLT liveness affected | Rust | [High](https://x.com/bbl4de_xyz/status/2026905174371975628?s=20) |  
+| Private | DLT liveness affected/Crashing state transition | Rust | Medium x3 | 
+
 ## Judging
 | Project | Description | Submission # |
 |---|---|---|
@@ -59,13 +62,10 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 | Subsquid | Pashov Audit Group | Solidity | TBD |
 | Infinifi | Fix-review after public contest | Solidity | https://gist.github.com/bbl4de/494f4c8aa8bc6e2e378662d8da352ac5| 
 
-## Bug Bounty - $20,000 in rewards 
-| Project | Description | Language | Severity | 
-|---|---|---|---|
-| Private | X | Solidity | [Low](https://cantina.xyz/u/bbl4de/public-reviews/bounties) | 
-| Private | DLT liveness affected | Rust | [High](https://x.com/bbl4de_xyz/status/2026905174371975628?s=20) |  
-| Private | DLT liveness affected/Crashing state transition | Rust | Medium x3 | 
-
+## Some of my reports
+- [Centrifuge V3.1 Medium severity report](https://gist.github.com/bbl4de/0b84ed271f1c90d66c9f947022f38faa)
+- [Votre Medium severity report](https://gist.github.com/bbl4de/4372a62b6a95a99dc096abc7f9a934f2)
+  
 ## Misc
 
 - Rareskills ZK bootcamp graduate 
