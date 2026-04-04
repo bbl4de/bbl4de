@@ -20,7 +20,7 @@ Significant **DeFi** experience (lending, bridges, staking, DEXes, yield farming
 
 Several audits of purpose-built L1s and components of L2s like Optimism. Although with no findings, I audited Ethereum's Pectra hardfork to deepen my understanding of the EVM and the consensus layer. 
 
-## Public contests 
+## Public contests - >$50,000 in rewards total.
 | Project | Description | Language(s) | Placement | Findings |
 |---|---|---|---|---|
 | [Rujira](https://code4rena.com/audits/2025-12-rujira) |CDP lending / money market on THORChain | Rust ( CosmWasm ) | 🥇 1st | 7H, 3M |
@@ -59,12 +59,12 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 | Subsquid | Pashov Audit Group | Solidity | TBD |
 | Infinifi | Fix-review after public contest | Solidity | https://gist.github.com/bbl4de/494f4c8aa8bc6e2e378662d8da352ac5| 
 
-## Bug Bounty
+## Bug Bounty - $20,000 in rewards 
 | Project | Description | Language | Severity | 
 |---|---|---|---|
 | Private | X | Solidity | [Low](https://cantina.xyz/u/bbl4de/public-reviews/bounties) | 
 | Private | DLT liveness affected | Rust | [High](https://x.com/bbl4de_xyz/status/2026905174371975628?s=20) |  
-| Private | DLT liveness affected/Crashing state transition | Rust | Medium x4 | 
+| Private | DLT liveness affected/Crashing state transition | Rust | Medium x3 | 
 
 ## Misc
 
