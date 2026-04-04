@@ -2,13 +2,6 @@
 
 Securing blockchains and smart contracts with [https://grego.ai/](https://grego.ai/#success-stories) ( March 2026 - now ).
 
-## Contact 
-- **X**: [@bbl4de_xyz](https://x.com/bbl4de_xyz)
-- **TG**: https://t.me/bbl4de
-- **Email:** bbl4de.xyz@gmail.com
-
-Website: https://bbl4de.xyz
-
 ## Expertise
 
 Proficiency in auditing **Solidity** smart contracts for **EVM** chains:
@@ -72,3 +65,11 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 - Rareskills ZK bootcamp graduate 
 
 - Cantina profile: https://cantina.xyz/u/bbl4de
+
+
+## Contact 
+- **X**: [@bbl4de_xyz](https://x.com/bbl4de_xyz)
+- **TG**: https://t.me/bbl4de
+- **Email:** bbl4de.xyz@gmail.com
+
+Website: https://bbl4de.xyz
