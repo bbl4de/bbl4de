@@ -46,9 +46,10 @@ Several audits of purpose-built L1s and components of L2s like Optimism. Althoug
 | Project | Description | Language | Severity | 
 |---|---|---|---|
 | Private | X | Solidity | [Low](https://cantina.xyz/u/bbl4de/public-reviews/bounties) | 
-| Private | DLT liveness affected | Rust | [High](https://x.com/bbl4de_xyz/status/2026905174371975628?s=20) |  
-| Private | DLT liveness affected/Crashing state transition | Rust | Medium x3 | 
-
+| ZKSync Lite | DLT liveness affected | Rust | [High](https://x.com/bbl4de_xyz/status/2026905174371975628?s=20) |  
+| ZKSync Lite | DLT liveness affected/Crashing state transition | Rust | Medium | 
+| ZKSync Lite | DLT liveness affected/Crashing state transition | Rust | Medium | 
+| ZKSync Lite | DLT liveness affected/Crashing state transition | Rust | Medium | 
 ## Judging
 | Project | Description | Submission # |
 |---|---|---|
