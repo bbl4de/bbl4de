@@ -1,4 +1,4 @@
-3 years of blockchain security research experience - developed an attacker mindset before the age of AI auditing.  
+2+ years of blockchain security research experience - developed an attacker mindset before the age of AI auditing.  
 
 Securing blockchains and smart contracts with [https://grego.ai/](https://grego.ai/#success-stories) ( March 2026 - now ).
 
