@@ -1,6 +1,6 @@
-3+ years of blockchain security research experience - developed an attacker mindset before the age of AI auditing.  
+3+ years of blockchain security research experience. 
 
-Securing blockchains and smart contracts with [https://grego.ai/](https://grego.ai/#success-stories) ( March 2026 - now ).
+Securing blockchains and smart contracts & AI engineering with [https://grego.ai/](https://grego.ai/#success-stories) ( March 2026 - now ).
 
 ## Expertise
 
@@ -12,6 +12,8 @@ Significant **DeFi** experience (lending, bridges, staking, DEXes, yield farming
 **Rust** & **Go** infrastructure projects and their components - majority of 2025 spent here:
 
 Several audits of purpose-built L1s and components of L2s like Optimism. Although with no findings, I audited Ethereum's Pectra hardfork to deepen my understanding of the EVM and the consensus layer. 
+
+AI enginnering & agentic workflows - using my security expertise to improve GregoAI's tool from the backend. 
 
 ## Public contests - >$50,000 in rewards total.
 | Project | Description | Language(s) | Placement | Findings |
