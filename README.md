@@ -9,9 +9,9 @@ Proficiency in auditing **Solidity** smart contracts for **EVM** chains:
 Significant **DeFi** experience (lending, bridges, staking, DEXes, yield farming ) & understanding of many industry-standard protocols like `Uniswap`, `Morpho`, `Compound`, `Aave`, `Pendle` as well as common cross-chain integrations like `CCTP`, `Wormhole` or `LayerZero`.
 
 
-**Rust** & **Go** infrastructure projects and their components - majority of 2025 spent here:
+**Rust** & **Go** infrastructure projects and their components
 
-Several audits of purpose-built L1s and components of L2s like Optimism. Although with no findings, I audited Ethereum's Pectra hardfork to deepen my understanding of the EVM and the consensus layer. 
+Several audits of purpose-built L1s and components of L2s like Optimism. I audited Ethereum's Pectra hardfork to deepen my understanding of the EVM and the consensus layer. 
 
 AI enginnering & agentic workflows - using my security expertise to improve GregoAI's tool from the backend. 
 
