@@ -4,16 +4,19 @@ Securing blockchains and smart contracts & AI engineering with [https://grego.ai
 
 ## Expertise
 
-Proficiency in auditing **Solidity** smart contracts for **EVM** chains:
+**Solidity** smart contracts:
 
 Significant **DeFi** experience (lending, bridges, staking, DEXes, yield farming ) & understanding of many industry-standard protocols like `Uniswap`, `Morpho`, `Compound`, `Aave`, `Pendle` as well as common cross-chain integrations like `CCTP`, `Wormhole` or `LayerZero`.
 
-
-**Rust** & **Go** infrastructure projects and their components:
+**Rust** & **Go** infrastructure:
 
 Several audits of purpose-built L1s and components of L2s like Optimism. I audited Ethereum's Pectra hardfork to deepen my understanding of the EVM and the consensus layer. 
 
-**AI enginnering** & **agentic** workflows:
+**AI-assisted bug hunting & Judging:**
+Triaged hundreds of complex reports, assessed their validity, impact and likelihood. Submitted multiple valid reports to [bug bounty programs](https://immunefi.com/profile/bbl4de/). 
+
+**AI enginnering**:
+
 Implementing benchmarks using my security expertise, researching novel prompt engineering and agentic enginnering solutions, as well as improving the existing pipeline.
 
 ## Public contests - >$50,000 in rewards total.
