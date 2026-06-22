@@ -71,6 +71,7 @@ Implementing benchmarks using my security expertise, researching novel prompt en
 | Infinifi | Fix-review after public contest | Solidity | https://gist.github.com/bbl4de/494f4c8aa8bc6e2e378662d8da352ac5| 
 
 ## Some of my reports
+- [Rujira liquidation breakage](https://gist.github.com/bbl4de/834c0da24cee83c55804954c7c58ff8a) with detailed analysis of the underlying network
 - [Centrifuge V3.1 Medium severity report](https://gist.github.com/bbl4de/0b84ed271f1c90d66c9f947022f38faa)
 - [Votre Medium severity report](https://gist.github.com/bbl4de/4372a62b6a95a99dc096abc7f9a934f2)
   
