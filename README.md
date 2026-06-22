@@ -18,7 +18,7 @@ Several audits of purpose-built L1s and components of L2s like Optimism. I audit
 
 **AI-assisted bug hunting & Judging:**
 
-Triaged hundreds of complex reports, assessed their validity, impact and likelihood. Submitted multiple valid reports to [bug bounty programs](https://immunefi.com/profile/bbl4de/).
+Triaged thousands of complex reports, assessed their validity, impact and likelihood. Submitted multiple valid reports to [bug bounty programs](https://immunefi.com/profile/bbl4de/).
 
 ---
 
