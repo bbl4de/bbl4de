@@ -24,7 +24,7 @@ Triaged thousands of complex reports, assessed their validity, impact and likeli
 
 **AI enginnering**:
 
-Implementing benchmarks using my security expertise, researching novel prompt engineering and agentic enginnering solutions, as well as improving the existing pipeline.
+Implementing and running benchmarks using my security expertise, researching novel prompt engineering and agentic enginnering solutions, as well as improving the existing pipeline.
 
 ## Public contests - >$50,000 in rewards total.
 | Project | Description | Language(s) | Placement | Findings |
