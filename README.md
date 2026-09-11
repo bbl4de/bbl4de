@@ -57,7 +57,7 @@ Implementing and running benchmarks using my security expertise, researching nov
 | ZKSync Lite | DLT liveness affected/Crashing state transition | Rust | Medium | 
 | ZKSync Lite | DLT liveness affected/Crashing state transition | Rust | Medium | 
 | Arweave | liveness affected | Erlang | [REDACTED](https://github.com/ArweaveTeam/arweave/releases/tag/N.2.9.5.1#:~:text=bbl4de%20(https%3A//github.com/bbl4de)) | 
-| Arweave | liveness affected | Erlang | REDACTED | 
+| Arweave | liveness affected | Erlang | [REDACTED](https://github.com/ArweaveTeam/arweave/releases#:~:text=in%20this%20release!-,bbl4de%20(https%3A//github.com/bbl4de),-Assets) | 
 
 ## Judging
 | Project | Description | Submission # |
